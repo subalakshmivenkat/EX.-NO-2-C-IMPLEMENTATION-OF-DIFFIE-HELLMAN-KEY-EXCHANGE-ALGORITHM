@@ -82,4 +82,4 @@ else:
 ![image](https://github.com/user-attachments/assets/3615edd9-7c83-4477-9dc8-855b6ae50957)
 
 ## RESULT:
-  Thus the Diffie-Hellman key exchange algorithm had been successfully implemented using C
+  Thus the Diffie-Hellman key exchange algorithm had been successfully implemented.
